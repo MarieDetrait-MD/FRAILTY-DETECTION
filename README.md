@@ -2,7 +2,7 @@
 
 QualiFHIR: Optimizing Care Pathways for Frail and Geriatric Patients Using FHIR
 
-Marie Detrait1, Arnaud Charlier1, Laurent Dumont1, Véronique Latteur2, Christophe Dumont2, Christophe Thoreau3, Aline Li Causi3, Stéfanie Diolosa3, Anna-Lieta Stagno3, Nicolas Depasse1, Didier Goies4, Pierre Jacmin1
+Marie Detrait1, Arnaud Charlier1, Laurent Dumont1, Véronique Latteur2, Christophe Dumont2, Christophe Thoreau3, Aline Li Causi3, Stéfanie Diolosa3, Anna-Lieta Stagno3, Nicolas Depasse1, Didier Goies4, Christelle Verhaege5, Guillaume Delbecque5, Pierre Jacmin1
 
 1 Department of Technology and Information Systems, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgique
 
@@ -11,6 +11,8 @@ Marie Detrait1, Arnaud Charlier1, Laurent Dumont1, Véronique Latteur2, Christop
 3 Social Services Department, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgique
 
 4 Department of Technology and Information Systems, Clinique Notre Dame de Grâce, N° 212 Chaussée de Nivelles, 6041 Gosselies, Belgique
+
+5 Department of Technology and Information systems, CH Mouscron, Mouscron, Belgique
 
  
 
