@@ -2,23 +2,23 @@
 
 QualiFHIR: Optimizing Care Pathways for Frail and Geriatric Patients Using FHIR
 
-Marie Detrait1, Arnaud Charlier1, Laurent Dumont1, Véronique Latteur2, Christophe Dumont2, Christophe Thoreau3, Aline Li Causi3, Stéfanie Diolosa3, Anna-Lieta Stagno3, Nicolas Depasse1, Didier Goies4, Christelle Verhaege5, Guillaume Delbecque5, Pierre Jacmin1
+Marie Detrait1, Arnaud Charlier1, Frédérik Lienard1, Laurent Dumont1, Véronique Latteur2, Christophe Dumont2, Christophe Thoreau3, Aline Li Causi3, Stéfanie Diolosa3, Anna-Lieta Stagno3, Nicolas Depasse1, Didier Goies4, Christelle Verhaege5, Guillaume Delbecque5, Pierre Jacmin1
+ 
+1 Department of Technology and Information Systems, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgium
 
-1 Department of Technology and Information Systems, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgique
+2 Geriatric Departement, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgium
 
-2 Geriatric Departement, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgique
+3 Social Services Department, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgium
 
-3 Social Services Department, Grand Hôpital de Charleroi, Les Viviers, N°1 rue du campus des viviers, 6060 Charleroi, Belgique
+4 Department of Technology and Information Systems, Clinique Notre Dame de Grâce, N° 212 Chaussée de Nivelles, 6041 Gosselies, Belgium
 
-4 Department of Technology and Information Systems, Clinique Notre Dame de Grâce, N° 212 Chaussée de Nivelles, 6041 Gosselies, Belgique
-
-5 Department of Technology and Information systems, CH Mouscron, Mouscron, Belgique
+5 Department of Technology and Information systems, CH Mouscron, Mouscron, Belgium
 
  
 
 Introduction
 
-The QualiFHIR project, initiated by the Grand Hôpital de Charleroi, aims to enhance the management of care for geriatric patients by implementing an infrastructure based on the FHIR (Fast Healthcare Interoperability Resources) standard. This FHIR infrastructure enables the secure sharing of medical information among the partner hospitals of the project (Clinique Notre Dame de Grâce de Gosselies and CHU de Namur) and supports the implementation of clinical decision support algorithms for detecting geriatric and socio-economic frailty.
+The QualiFHIR project, initiated by the Grand Hôpital de Charleroi, aims to enhance the management of care for geriatric patients by implementing an infrastructure based on the FHIR (Fast Healthcare Interoperability Resources) standard. This FHIR infrastructure enables the secure sharing of medical information among the partner hospitals of the project (Clinique Notre Dame de Grâce de Gosselies and CH de Mouscron) and supports the implementation of clinical decision support algorithms for detecting geriatric frailty.
 
 FHIR Infrastructure
 
@@ -30,4 +30,4 @@ The developed algorithms, particularly XGBoost and an artificial neural network 
 
 Conclusion
 
-The QualiFHIR FHIR infrastructure demonstrates how a standardized and secure data architecture can support data exchange between hospitals and enable the implementation of clinical decision support tools using AI models. These models have significant potential to improve the specific care of geriatric patients. The future of this project lies first in developing a dedicated application for geriatricians and social workers with the most effective model for each area on a larger patient cohort, then in the development of this infrastructure to other clinical contexts.
+The QualiFHIR FHIR infrastructure demonstrates how a standardized and secure data architecture can support data exchange between hospitals and enable the implementation of clinical decision support tools using AI models. These models have significant potential to improve the specific care of geriatric patients. The future of this project lies first in developing a dedicated application for geriatricians with the most effective model for each area on a larger patient cohort, then in the development of this infrastructure to other clinical contexts.
