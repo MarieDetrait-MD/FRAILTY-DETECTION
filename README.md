@@ -22,11 +22,11 @@ The QualiFHIR project, initiated by the Grand Hôpital de Charleroi, aims to enh
 
 FHIR Infrastructure
 
-The established infrastructure is based on creating an interoperable data platform compatible with FHIR standards. Medical and socio-economic data are captured through questionnaires integrated into the Electronic Health Record (EHR) and processed using the standardized Snomed CT terminology. A FHIR repository has been developed for each hospital to store this data, facilitating its sharing among the project's partner hospitals. This infrastructure also serves as the foundation for training AI models. The project also includes a natural language processing (NLP) component to handle unstructured data.
+The established infrastructure is based on creating an interoperable data platform compatible with FHIR standards. Medical and socio-economic data are captured through questionnaires integrated into the Electronic Health Record (EHR) and processed using the standardized Snomed CT terminology. A FHIR repository has been developed for each hospital to store this data, facilitating its sharing among the project's partner hospitals. This infrastructure also serves as the foundation for training AI models. The project also includes a Large Model of Language (MISTRAL AI, LE CHAT, 2024) component to handle unstructured data.
 
 Results
 
-The developed algorithms, particularly XGBoost and an artificial neural network (ANN), have shown promising performance in detecting geriatric frailty. The XGBoost model achieved a ROC-AUC score of 0.875 and an accuracy of 0.92, while the ANN reached a ROC-AUC of 0.97 with an accuracy of 0.96. A LIME model was developed to correctly interpret the ANN. These initial results on a small cohort of patients (n=120) are encouraging as they indicate a reliable predictive capability. The same applies to socio-economic vulnerability with two models: an ANN and a Naive Bayes classifier.
+The developed algorithms, particularly XGBoost and an artificial neural network (ANN), have shown promising performance in detecting geriatric frailty. The XGBoost model achieved a ROC-AUC score of 0.875 and an accuracy of 0.92, while the ANN reached a ROC-AUC of 0.97 with an accuracy of 0.96. A LIME model was developed to correctly interpret the ANN. These initial results on a small cohort of patients (n=160) are encouraging as they indicate a reliable predictive capability.
 
 
 Conclusion
