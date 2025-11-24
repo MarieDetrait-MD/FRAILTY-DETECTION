@@ -28,6 +28,7 @@ Results
 
 The developed algorithms, particularly XGBoost and an artificial neural network (ANN), have shown promising performance in detecting geriatric frailty. The XGBoost model achieved a ROC-AUC score of 0.875 and an accuracy of 0.92, while the ANN reached a ROC-AUC of 0.97 with an accuracy of 0.96. A LIME model was developed to correctly interpret the ANN. These initial results on a small cohort of patients (n=120) are encouraging as they indicate a reliable predictive capability. The same applies to socio-economic vulnerability with two models: an ANN and a Naive Bayes classifier.
 
+
 Conclusion
 
 The QualiFHIR FHIR infrastructure demonstrates how a standardized and secure data architecture can support data exchange between hospitals and enable the implementation of clinical decision support tools using AI models. These models have significant potential to improve the specific care of geriatric patients. The future of this project lies first in developing a dedicated application for geriatricians with the most effective model for each area on a larger patient cohort, then in the development of this infrastructure to other clinical contexts.
