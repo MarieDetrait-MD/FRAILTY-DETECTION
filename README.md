@@ -26,7 +26,7 @@ The established infrastructure is based on creating an interoperable data platfo
 
 Results
 
-The developed algorithms, particularly XGBoost and an artificial neural network (ANN), have shown promising performance in detecting geriatric frailty. The XGBoost model achieved a ROC-AUC score of 0.875 and an accuracy of 0.92, while the ANN reached a ROC-AUC of 0.97 with an accuracy of 0.96. A LIME model was developed to correctly interpret the ANN. These initial results on a small cohort of patients (n=160) are encouraging as they indicate a reliable predictive capability.
+The developed algorithms, particularly XGBoost and an artificial neural network (ANN), have shown promising performance in detecting geriatric frailty. The XGBoost model achieved a ROC-AUC score of 0.83 and an accuracy of 0.88, while the ANN reached a ROC-AUC of 0.92 with an accuracy of 0.94. A LIME model was developed to correctly interpret the ANN. These initial results on a small cohort of patients (n=160) are encouraging as they indicate a reliable predictive capability.
 
 
 Conclusion
