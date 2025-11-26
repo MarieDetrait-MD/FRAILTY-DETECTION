@@ -32,3 +32,9 @@ The developed algorithms, particularly XGBoost and an artificial neural network 
 Conclusion
 
 The QualiFHIR FHIR infrastructure demonstrates how a standardized and secure data architecture can support data exchange between hospitals and enable the implementation of clinical decision support tools using AI models. These models have significant potential to improve the specific care of geriatric patients. The future of this project lies first in developing a dedicated application for geriatricians with the most effective model for each area on a larger patient cohort, then in the development of this infrastructure to other clinical contexts.
+
+Files 
+Réseau de neurones et XGboost pour détecter la fragilité gériatrique : FICHIER QUALIFHIR PATIENTS  FRAGILITE APPRENTISSAGE AUTOM.ipynb
+LLM, Mistral AI, LE chat, 2024. Pipeline d'extraction : FHIR TEST Geriatrie.ipynb
+Serveur terminologique du Minsitère : Qualifhir.ipynb
+
